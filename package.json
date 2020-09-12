@@ -17,6 +17,6 @@
     "clear": "^0.1.0",
     "commander": "^2.20.0",
     "figlet": "^1.2.3",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
